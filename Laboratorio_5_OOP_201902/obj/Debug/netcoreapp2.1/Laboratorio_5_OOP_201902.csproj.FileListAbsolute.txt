@@ -1,0 +1,11 @@
+/Users/imac/Desktop/uni/laboratorio-06-juanjoserodrigolazaro97/Laboratorio_5_OOP_201902/bin/Debug/netcoreapp2.1/Laboratorio_5_OOP_201902.deps.json
+/Users/imac/Desktop/uni/laboratorio-06-juanjoserodrigolazaro97/Laboratorio_5_OOP_201902/bin/Debug/netcoreapp2.1/Laboratorio_5_OOP_201902.runtimeconfig.json
+/Users/imac/Desktop/uni/laboratorio-06-juanjoserodrigolazaro97/Laboratorio_5_OOP_201902/bin/Debug/netcoreapp2.1/Laboratorio_5_OOP_201902.runtimeconfig.dev.json
+/Users/imac/Desktop/uni/laboratorio-06-juanjoserodrigolazaro97/Laboratorio_5_OOP_201902/bin/Debug/netcoreapp2.1/Laboratorio_5_OOP_201902.dll
+/Users/imac/Desktop/uni/laboratorio-06-juanjoserodrigolazaro97/Laboratorio_5_OOP_201902/bin/Debug/netcoreapp2.1/Laboratorio_5_OOP_201902.pdb
+/Users/imac/Desktop/uni/laboratorio-06-juanjoserodrigolazaro97/Laboratorio_5_OOP_201902/obj/Debug/netcoreapp2.1/Laboratorio_5_OOP_201902.csprojAssemblyReference.cache
+/Users/imac/Desktop/uni/laboratorio-06-juanjoserodrigolazaro97/Laboratorio_5_OOP_201902/obj/Debug/netcoreapp2.1/Laboratorio_5_OOP_201902.csproj.CoreCompileInputs.cache
+/Users/imac/Desktop/uni/laboratorio-06-juanjoserodrigolazaro97/Laboratorio_5_OOP_201902/obj/Debug/netcoreapp2.1/Laboratorio_5_OOP_201902.AssemblyInfoInputs.cache
+/Users/imac/Desktop/uni/laboratorio-06-juanjoserodrigolazaro97/Laboratorio_5_OOP_201902/obj/Debug/netcoreapp2.1/Laboratorio_5_OOP_201902.AssemblyInfo.cs
+/Users/imac/Desktop/uni/laboratorio-06-juanjoserodrigolazaro97/Laboratorio_5_OOP_201902/obj/Debug/netcoreapp2.1/Laboratorio_5_OOP_201902.dll
+/Users/imac/Desktop/uni/laboratorio-06-juanjoserodrigolazaro97/Laboratorio_5_OOP_201902/obj/Debug/netcoreapp2.1/Laboratorio_5_OOP_201902.pdb

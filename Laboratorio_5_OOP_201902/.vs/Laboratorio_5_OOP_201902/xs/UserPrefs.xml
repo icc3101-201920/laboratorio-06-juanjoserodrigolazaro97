@@ -1,3 +1,26 @@
 ﻿<Properties StartupConfiguration="{53D9B72E-1FF9-4916-9192-A51D02E69383}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Visualization.cs">
+    <Files>
+      <File FileName="Visualization.cs" Line="10" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Laboratorio_5_OOP_201902" expanded="True">
+            <Node name="Laboratorio_5_OOP_201902" expanded="True">
+              <Node name="Files" expanded="True" />
+              <Node name="Visualization.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Laboratorio__5__OOP__201902 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
